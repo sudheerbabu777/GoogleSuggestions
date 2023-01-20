@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+  color: #64748b;
+}
+
+.arrow-container {
+  border: none;
+  background-color: #ffffff;
+}
+
+.arrow {
+  height: 20px;
+  width: 20px;
+  margin-left: 44px;
+}
